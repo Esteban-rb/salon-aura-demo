@@ -1,0 +1,6 @@
+# Handoff de Claude Design (referencia local, no publicar)
+_design/
+
+# Archivos temporales de verificación
+_*.png
+_check.js
